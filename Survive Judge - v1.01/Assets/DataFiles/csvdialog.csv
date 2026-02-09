@@ -1,0 +1,79 @@
+JudgeA01,나,Player,(PC 디버깅용 조작법) H : 힌트 보기/안보기 토글
+JudgeA01,나,Player,(PC 디버깅용 조작법) 힌트 본 상태에서 Space : 힌트 얻기
+JudgeA01,나,Player,(PC 디버깅용 조작법) A : 3D 문자에서 정답으로 진행하기.
+JudgeA01,나,Player,(못보던 얼굴들이 많이 보인다.)
+JudgeA01,나,Player,(총 5명... 이 중 보안관을 살해한 범인이 있다.)
+JudgeA01,나,Player,(다행히 모두 봤던 인물이다. 이 중 범인이 있어.)
+JudgeA01,나,Player,(분명히 거짓말을 하는 사람이 있다.)
+JudgeA01,파수꾼,Gallagher,그러면 재판을 시작하지. 우선 피해자는 왼쪽 건물에서 발견되었어.
+JudgeA01,파수꾼,Gallagher,최초 발견자는 여기 회색머리 남자고 정확히 한시간 전에 발견되었지.
+JudgeA01,파수꾼,Gallagher,검시 결과는 옆에 의사에게 듣는게 더 좋을 것 같군.
+JudgeA01,의사,Boothill,시체에는 큰 찌른 상처 즉 자상이 있어.
+JudgeA01,의사,Boothill,그리고 피가 대량으로 나왔지.
+JudgeA01,의사,Boothill,문제는 이 피가 응고되지 않았다는 점인데
+JudgeA01,의사,Boothill,원래 피가 나온지 좀 지났으면 1시간 정도 내에는 굳기 마련이지.
+JudgeA01,의사,Boothill,그러므로 이 사람은 1시간 이내에 죽게 된거야.
+JudgeA01,의사,Boothill,그러면 다음은 알리바이인데 최근 1시간까지
+JudgeA01,의사,Boothill,알리바이 증명된 사람 있습니까?
+JudgeA01,의사,Boothill,보아하니 따로따로 다닌거 같은데 이러면
+JudgeA01,의사,Boothill,다른 쪽에서 범인을 찾아보는게 좋아보이는군.
+JudgeA01,나,Player,(이 증거를 사용하면 알리바이를 증명할 수 있지 않을까?)
+JudgeA01,나,Player,(올바르지 않은 부분에 단서를 쏴서 논파할 수 있을 거야.)
+JudgeA01,나,Player,(잘 모르겠다면 알거 같은 사람을 찾아보자.)
+HintA01,프로그래머,Silverwolf,내 증언으로 반박할 수 있을 거 같군
+JudgeA02,나,Player,프로그래머의 증언으로 1시간 이내에 들어간 사람은 의사밖에 없습니다.
+JudgeA02,나,Player,나머지는 알리바이가 자동적으로 증명된거 같군요.
+JudgeA02,의사,Boothill,그런가?
+JudgeA02,의사,Boothill,그러면 이제와서 모양빠지지만 1시간안에 죽지 않았다면 의미없지않나.
+JudgeA02,의사,Boothill,피는 물을 섞으면 굳지 않은것처럼 보일 수 있지.
+JudgeA02,의사,Boothill,거기다 죽은게 1시간 이내가 아닐 이유가 더 있어.
+JudgeA02,의사,Boothill,정말로 사인이 자상이라고 생각하나?
+HintA02,의사,Boothill,내 증언으로 반박할 수 있을 거 같은데?
+JudgeA03,의사,Boothill,원래는 범인을 잡으려고 한건데 아쉽게 됐군.
+JudgeA03,의사,Boothill,이러면 알리바이는 전부 쓸모가 없지.
+JudgeA03,의사,Boothill,그러면 이제 흉기가 왜 오른쪽 건물로 이동했느냐인데
+JudgeA03,의사,Boothill,상식적으로 누가 시체보다 흉기를 먼저 발견하면 안되니까 흉기를 지키고
+JudgeA03,의사,Boothill,흉기를 지키는 위치면 라이프가드가 범인일수밖에 없어.
+JudgeA03,의사,Boothill,여기에 모순점은 없어.
+HintA03,프로그래머,Silverwolf,시체가 1시간 넘게 지났다면 그 칼로 찌르진 못했을 거야.
+JudgeA04,나,Player,이 흉기를 사용하면 사후경직 된 시체를 찔러 위장할 수 없어...
+JudgeA04,나,Player,그러면 살아있는 상태에서 저 칼로 찔렀다는 거지.
+JudgeA04,나,Player,그러면 범인은 당신일 수밖에 없어.
+JudgeA05,의사,Boothill,내가 범인이라고?
+JudgeA05,의사,Boothill,여러 정황 증거는 알겠지만 확실히 나라고는 말 못하지 않나?
+JudgeA05,의사,Boothill,나를 범인으로 지목하고 싶으면 더 확실한 증거를 가져오라고.
+JudgeA05,나,Player,확실히 확증은 없지만 소거법으로 해도 당신밖에 없어.
+JudgeA05,나,Player,프로그래머가 비명을 듣지 못했던 이유...
+JudgeA05,나,Player,그게 가능하려면 급소의 위치를 잘 알고 있는
+JudgeA05,나,Player,당신이 범인이야.
+JudgeA05,나,Player,(최종 증거로 범인을 명중시키자.)
+MindRoom01,나,Player,(PC 디버깅용 조작법) A S D F G:  각 마인드 박스 트리거시키기.
+MindRoom01,나,Player,단서를 모두 모았다.
+MindRoom01,나,Player,지금까지 모은 단서를 모두 정리해야해.
+MindRoom01,나,Player,내면의 공간에서 단서를 정비하자.
+MindRoom01,나,Player,단서를 강하게 연마하면 거짓을 꿰뚫는 무기가 될거야.
+MindRoom01,나,Player,(상자를 빠르게 손으로 내리지면 무기를 얻을 수 있습니다.)
+MindRoom01,나,Player,(단서 충돌은 VR의 X버튼을 눌러 원위치할수 있습니다.)
+MindRoom01,나,Player,(준비가 다 되면 천장의 표적을 명중시켜)
+MindRoom01,나,Player,(재판으로 이동합니다.)
+MindRoom01,나,Player,(대화를 볼 때는 멀리 있는 사물을)
+MindRoom01,나,Player,(봐야 어지럽지 않습니다.)
+MindItem01,나,Player,프로그래머의 증언이다.
+MindItem01,나,Player,프로그래머는 왼쪽 집에 1시간동안 있었는데
+MindItem01,나,Player,의사와 본인 말고는 왼쪽 건물에 온적이 없다.
+MindItem01,나,Player,이건 결정적 단서가 되겠어.
+MindItem02,나,Player,의사는 자상이 사인이 아니라고 주장했어.
+MindItem02,나,Player,그렇다면 자상은 무슨 의미가 있지?
+MindItem03,나,Player,시체의 상태는 자상이 하나.
+MindItem03,나,Player,피는 응고되지 않았어.
+MindItem03,나,Player,피가 응고되는 시간이 대략 1시간이니까
+MindItem03,나,Player,1시간 안쪽이 범행시간이겠지.
+MindItem04,나,Player,피해자의 신원을 나타내는 파일이다.
+MindItem04,나,Player,흉기 사인 사망추정시각이 중요한건가.
+MindItem04,나,Player,그외에는 정보가 없다.
+MindItem05,나,Player,흉기로 보이는 칼이다.
+MindItem05,나,Player,1시간 전쯤에 왼쪽 건물에 있었다고 한다.
+MindItem05,나,Player,칼이 무른 것으로 보아 약간만 단단해도
+MindItem05,나,Player,완전히 찌를 수 없을 것이다.
+Title01,나,Player,(PC 디버깅용 조작법) Space : 대화 넘기기 왼쪽 클릭 : 총 발사하기.
+Title01,나,Player,(PC 디버깅용 조작법) P : 다음 씬으로 이동하기.
