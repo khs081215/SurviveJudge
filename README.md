@@ -1,4 +1,4 @@
-# FastFate
+# Survive Judge
 
 VR/PC 1인칭 추리 게임입니다.
 
